@@ -1,1 +1,1 @@
-#JS Closures example and uses
+# JS Closures example and uses
